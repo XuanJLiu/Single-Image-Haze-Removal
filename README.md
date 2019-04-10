@@ -3,5 +3,7 @@ A course project of EL-GY 6123 Image and Video Processing
 
 
 1.Run download and trainig images.ipynb  
-  800 landscape images will be downloaded in a file
+  →800 landscape images will be downloaded in a new folder
+  →A training result will be shown:
+  
 2.Run haze_coloratt.ipynb
